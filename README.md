@@ -10,14 +10,14 @@
 
 - 🌱 I’m currently learning **CyberSecurity & Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://Mdfayjulkabir.github.io/portfolio1/](https://Mdfayjulkabir.github.io/portfolio1/)
+- 👨‍💻 All of my projects are available at [https://Mdfayjulkabir.github.io/portfolio/](https://Mdfayjulkabir.github.io/portfolio/)
 
 - 📫 How to reach me **mdfayjulkabir65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/Mdfayjulkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mdfayjulkabir" height="30" width="40" /></a>
-<a href="https://instagram.com/md_fayjul_kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaidmahamud92" height="30" width="40" /></a>
+<a href="https://instagram.com/md_fayjul_kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_fayjul_kabir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
